@@ -41,9 +41,12 @@ testnet=1
 server=1
 
 # RPC settings
-rpcuser=BTCtest
-rpcpassword=*******
+rpcuser=rpc
+
+rpcpassword=qwerty
+
 # Rescan of the wallet may take a considerable amount of time
 rpctimeout=120
+
 rpcport=8332
 ```
