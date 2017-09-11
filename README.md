@@ -9,10 +9,10 @@ Main idea — to use [Watch-only Addresses](https://blog.blockchain.com/2016/05/
 Used RPC API
 ------------
 
-* `importaddress` / GH PRs: [2121](https://github.com/bitcoin/bitcoin/pull/2121), [2861](https://github.com/bitcoin/bitcoin/pull/2861),  [3383](https://github.com/bitcoin/bitcoin/pull/3383), [4045](https://github.com/bitcoin/bitcoin/pull/4045)
+* `importaddress` / GH PRs: [#2121](https://github.com/bitcoin/bitcoin/pull/2121), [#2861](https://github.com/bitcoin/bitcoin/pull/2861),  [#3383](https://github.com/bitcoin/bitcoin/pull/3383), [#4045](https://github.com/bitcoin/bitcoin/pull/4045)
 * `listtransactions`
 * `getbalance`
-* `gettxoutsbyaddress` / [GH PR](https://github.com/bitcoin/bitcoin/pull/5048)
+* `gettxoutsbyaddress` / GH PR [#5048](https://github.com/bitcoin/bitcoin/pull/5048)
 
 
 Compile
