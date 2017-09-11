@@ -1,6 +1,6 @@
 Simple bitcoin transactions tracker
 ===================================
-btxer — *b*itcoin transaction (*tx*) track*er*.
+btxer — **b**itcoin transaction (**tx**) track**er**.
 
 Based on the original Bitcoin node with JSON-RPC API.
 Main idea — to use [Watch-only Addresses](https://blog.blockchain.com/2016/05/31/how-to-use-watch-only-addresses/).
