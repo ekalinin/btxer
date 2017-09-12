@@ -6,6 +6,19 @@ Based on the original Bitcoin node with JSON-RPC API.
 
 Main idea: to use [Watch-only Addresses](https://blog.blockchain.com/2016/05/31/how-to-use-watch-only-addresses/).
 
+Table of Contents
+-----------------
+
+* [Simple bitcoin transactions tracker](#simple-bitcoin-transactions-tracker)
+  * [Used RPC API](#used-rpc-api)
+  * [Compile](#compile)
+  * [Usage](#usage)
+  * [Test bitcoind config](#test-bitcoind-config)
+  * [Possible improvements](#possible-improvements)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
+
+
 Used RPC API
 ------------
 
